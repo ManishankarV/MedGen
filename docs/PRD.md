@@ -1,5 +1,10 @@
 # MedGen Techno-Functional Product Requirements Document (PRD)
 
+## TL;DR
+
+- **Phase 1 ("Explore"):** Patient-facing AI assistant for health Q&A and appointment booking. Uses LLMs for general health queries, with context augmentation (public knowledge, web search as needed), and strong input guardrails (PII redaction). Integrates with EHR APIs for appointment scheduling (Atleast the major vendors have APIs).
+- **Phase 2 ("Build"):** Personalized experience by leveraging user context from EHR (e.g., prescriptions from appointments), enabling queries on personal and proprietary medication data. Supports patient education on medications and introduces human-in-the-loop (in-house experts) for complex tasks such as prescription refills or modifications.
+  
 ## 1. Introduction & Vision
 
 MedGen aims to develop a Healthcare AI Platform that empowers patients and healthcare providers through intelligent, secure, and interoperable AI-driven solutions.
