@@ -1,0 +1,2 @@
+# MedGen
+Healthcare AI platform
