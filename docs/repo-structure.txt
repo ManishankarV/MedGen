@@ -1,0 +1,43 @@
+MedGen/
+│
+├── agentic_core/               # Core orchestrator, chains, and agents
+│   ├── __init__.py
+│   ├── chains.py
+│   ├── agents.py
+│   ├── tools/
+│   │   ├── web_search.py
+│   │   ├── ehr_booking.py
+│   │   └── pii_redaction.py
+│   └── memory.py
+│
+├── data_management/            # Data connectors, vector DB wrappers
+│   ├── public_knowledgebase.py
+│   ├── ehr_integration.py
+│   ├── medication_db.py
+│   └── vector_store.py
+│
+├── frontend/                   # Web/mobile interface (stub or React/Vue app)
+│   └── README.md
+│
+├── observability/              # Langfuse/Langsmith integration, logging, tracing
+│   ├── tracing.py
+│   └── monitoring.py
+│
+├── models/                     # LLM wrappers, fine-tuning scripts
+│   ├── llm_client.py
+│   ├── intent_classifier.py
+│   └── README.md
+│
+├── tests/                      # Unit and integration tests
+│
+├── docs/
+│   ├── PRD.md                  # Full product requirements document
+│   ├── ARCHITECTURE.md
+│   └── API.md
+│
+├── .gitignore
+├── requirements.txt
+├── README.md
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+└── LICENSE
