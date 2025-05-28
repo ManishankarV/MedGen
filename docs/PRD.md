@@ -1,4 +1,4 @@
-# MedGen Techno-Functional Product Requirements Document (PRD)
+# MedGen Techno-Functional Product Requirements Document (PRD)                     *Generated document*
 
 ## TL;DR
 
@@ -159,4 +159,4 @@ MedGen’s architecture follows Chip Huyen’s GenAI platform model, focusing in
 
 ---
 
-*Last updated: May 21, 2025*
+
