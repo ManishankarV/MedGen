@@ -1,6 +1,6 @@
-                                                                                                                                    *Generated document*
+                                                                                                                                    
 # MedGen Techno-Functional Product Requirements Document (PRD)                     
-
+                                                                                           *Generated document*
 ## TL;DR
 
 - **Phase 1 ("Explore"):** Patient-facing AI assistant for health Q&A and appointment booking. Uses LLMs for general health queries, with context augmentation (public knowledge, web search as needed), and strong input guardrails (PII redaction). Integrates with EHR APIs for appointment scheduling (Atleast the major vendors have APIs).
