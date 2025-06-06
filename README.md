@@ -3,7 +3,7 @@ Healthcare AI platform
 
 
 ## Vision
-This project aims to develop a Healthcare AI Platform that empowers patients and healthcare providers through intelligent, secure, and interoperable AI-driven solutions. We follow a phased, iterative approach, guided by principles of user-centricity, privacy, interoperability, and modularity.
+This project aims to develop a Healthcare AI Platform that empowers patients and healthcare providers through intelligent, secure, and interoperable AI-driven solutions. We follow a phased, iterative approach, guided by principles of user-centricity, privacy, interoperability, and modularity as we build platform capabilities, incrementally addressing workflows based on value.
 
 ## Guiding Principles
 - **User-Centricity:** Solutions are designed around patients’ and professionals’ needs.
